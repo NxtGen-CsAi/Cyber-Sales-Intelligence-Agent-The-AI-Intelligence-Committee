@@ -5,7 +5,7 @@ An advanced AI-powered meta-agent that gathers intelligence, analyzes cybersecur
 
 ![The-AI-Intelligence-Management](https://image2url.com/images/1761319481668-f7671570-117c-4a33-af86-87fd5b8f48af.png)
 ![The-AI-Intelligence-Management](https://image2url.com/images/1761319545171-a125bf35-8be9-46c3-8a05-2dcd6815f2d7.png)
-![The-AI-Intelligence-Management](https://image2url.com/images/1761319598054-af208c66-3814-4246-b9a2-168563b6c596.png)
+![The-AI-Intelligence-Management](https://image2url.com/images/1761319965467-52a5cc35-86a5-4596-b772-17212d05043e.png)
 
 Cyber-Sales Intelligence Agent simulates a Super-Committee of coordinated AI agents, each assigned a distinct analytical or creative role.
 Given a target company name, the system initiates a sequence of operations — real-time intelligence gathering, contextual analysis, data synthesis, and strategic pitch generation — to produce a comprehensive sales briefing and persuasive outreach message.
