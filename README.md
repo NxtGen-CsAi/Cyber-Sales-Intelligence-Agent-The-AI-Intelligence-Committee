@@ -3,7 +3,7 @@ An advanced AI-powered meta-agent that gathers intelligence, analyzes cybersecur
 
 🚀 Short Overview
 
-![The-AI-Intelligence-Management](https://image2url.com/images/1761319481668-f7671570-117c-4a33-af86-87fd5b8f48af.png)
+![The-AI-Intelligence-Management](https://image2url.com/images/1761654467858-ef073a48-7c3c-4069-94ee-feb48b1880bc.png)
 ![The-AI-Intelligence-Management](https://image2url.com/images/1761319545171-a125bf35-8be9-46c3-8a05-2dcd6815f2d7.png)
 ![The-AI-Intelligence-Management](https://image2url.com/images/1761319965467-52a5cc35-86a5-4596-b772-17212d05043e.png)
 
