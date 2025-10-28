@@ -17,11 +17,11 @@ It showcases how multi-agent orchestration, prompt engineering, and frontend-AI 
 🧩 Multi-Agent Workflow:
 Each AI agent performs a specialized role:
 Live-Feed Specialist: Collects real-time social intelligence from Twitter/X, Reddit, and Hacker News for mentions of security issues or public sentiment.
-Broad Researcher: Uses Perplexity AI to scan the web for company-related news, press releases, and cyber-incident records.
-Deep Analyst: Powered by DeepSeek AI, predicts potential vulnerabilities and evaluates the target’s cybersecurity posture.
-Data Synthesizer: Employs Google Gemini Flash to consolidate unstructured information into a coherent intelligence report.
-Master Strategist: Uses Google Gemini Pro and OpenAI GPT-4 to generate persuasive, psychologically-driven sales pitches based on the analyzed data.
-The Voice: (Simulated) Converts the final pitch into a human-sounding audio message using ElevenLabs API.
+Broad Researcher: Uses AI to scan the web for company-related news, press releases, and cyber-incident records.
+Deep Analyst: Powered by AI, predicts potential vulnerabilities and evaluates the target’s cybersecurity posture.
+Data Synthesizer: Employs Ai Flash to consolidate unstructured information into a coherent intelligence report.
+Master Strategist: Uses Ai Pro and AI-4 to generate persuasive, psychologically-driven sales pitches based on the analyzed data.
+The Voice: (Simulated) Converts the final pitch into a human-sounding audio message using 11 API.
 
 📊 Dynamic Status Dashboard:
 A visually interactive UI that tracks each agent’s status — Pending, Running, Completed, or Error — in real time.
@@ -38,11 +38,11 @@ Demonstrates future multimodal potential through text-to-speech integration.
 
 Frontend: React, TypeScript, Tailwind CSS
 AI & ML Engines:
-Google Gemini API — gemini-2.5-flash (fast synthesis), gemini-2.5-pro (strategic generation)
-OpenAI GPT-4 (creative refinement)
-DeepSeek AI (technical vulnerability analysis)
-Perplexity AI (broad research)
-ElevenLabs API (text-to-speech simulation)
+First Agent API — F (fast synthesis), P (strategic generation)
+Second Agent Api — (creative refinement)
+Third Agent AI (technical vulnerability analysis)
+Fourth Agent AI (broad research)
+Fifth API (text-to-speech simulation)
 Data Sources (Simulated): Twitter/X, Reddit, The Hacker News
 
 🧠 Skills Demonstrated
@@ -75,7 +75,7 @@ The importance of ethical intelligence sourcing and responsible data synthesis.
 
 🔗 Live API Integrations: Replace simulated inputs with live Twitter/X, Reddit, and vulnerability-feed APIs.
 
-🗣️ Real Audio Output: Implement true ElevenLabs or Gemini-audio text-to-speech integration.
+🗣️ Real Audio Output: Implement true Agent(5) or Agent(1)-audio text-to-speech integration.
 🎛️ Custom Agent Selection: Let users enable, disable, or customize AI agents per operation.
 ⏳ Streaming Responses: Display token-by-token generation for a real-time conversational feel.
 ☁️ Cloud Sync: Integrate Firebase or Supabase for saving user briefings and pitch history.
