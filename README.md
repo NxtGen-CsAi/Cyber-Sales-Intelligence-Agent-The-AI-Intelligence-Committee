@@ -73,7 +73,7 @@ The importance of ethical intelligence sourcing and responsible data synthesis.
 
 🔮 Future Improvements
 
-🔗 Live API Integrations: Replace simulated inputs with live Twitter/X, Reddit, and vulnerability-feed APIs.
+🔗 Live API Integrations: Replace simulated inputs with live TR, and vulnerability-feed APIs.
 
 🗣️ Real Audio Output: Implement true Agent(5) or Agent(1)-audio text-to-speech integration.
 🎛️ Custom Agent Selection: Let users enable, disable, or customize AI agents per operation.
