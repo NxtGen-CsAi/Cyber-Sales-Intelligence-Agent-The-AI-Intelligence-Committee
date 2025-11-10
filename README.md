@@ -16,7 +16,7 @@ It showcases how multi-agent orchestration, prompt engineering, and frontend-AI 
 
 🧩 Multi-Agent Workflow:
 Each AI agent performs a specialized role:
-Live-Feed Specialist: Collects real-time social intelligence from Twitter/X, Reddit, and Hacker News for mentions of security issues or public sentiment.
+Live-Feed Specialist: Collects real-time social intelligence from TRH for mentions of security issues or public sentiment.
 Broad Researcher: Uses AI to scan the web for company-related news, press releases, and cyber-incident records.
 Deep Analyst: Powered by AI, predicts potential vulnerabilities and evaluates the target’s cybersecurity posture.
 Data Synthesizer: Employs Ai Flash to consolidate unstructured information into a coherent intelligence report.
